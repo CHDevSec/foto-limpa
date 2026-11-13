@@ -1,5 +1,9 @@
 # Checklist: limpa teu EXIF (tira o GPS das tuas fotos)
 
+![Card limpa teu EXIF: 4 passos pra tirar o GPS das fotos, Android e iPhone](limpa-exif-card.png)
+
+> Prefere o card pra salvar ou imprimir? Baixa o [PDF](limpa-exif-card.pdf).
+
 Marca cada um hoje. Leva 2 minutos.
 
 ## 1. Câmera: desliga a localização (para de gravar GPS novo)

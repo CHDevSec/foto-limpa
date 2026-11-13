@@ -59,5 +59,11 @@ foto importante como "documento".** Confere nas propriedades antes de compartilh
 - Como limpar, passo a passo (celular + PC): [`defesa/README.md`](defesa/README.md)
 - **Checklist pra aplicar hoje:** [`defesa/checklist.md`](defesa/checklist.md)
 
+### Card rápido (salva ou imprime)
+
+![Card limpa teu EXIF: 4 passos pra tirar o GPS das fotos, Android e iPhone](defesa/limpa-exif-card.png)
+
+Baixa em [PNG](defesa/limpa-exif-card.png) ou [PDF](defesa/limpa-exif-card.pdf).
+
 ## Licença
 MIT — ver [LICENSE](LICENSE). Feito pela CHDEVSEC pra ensino de segurança e privacidade na prática.
